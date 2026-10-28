@@ -1,0 +1,8 @@
+{
+  "name": "useful-claude-statusline",
+  "version": "1.0.0",
+  "description": "A compact, column-aligned status line for Claude Code.",
+  "bin": { "useful-claude-statusline": "install.js" },
+  "files": ["install.js", "statusline.js", "LICENSE"],
+  "license": "MIT"
+}
